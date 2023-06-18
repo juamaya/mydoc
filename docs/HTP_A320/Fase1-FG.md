@@ -2,11 +2,10 @@
 sidebar_position: 3
 ---
  
-# Fase1-FG
- 
-
+# Fase1-FG 
+***
 ## Secuencia de operaciones.
-
+***
 ## op 10
 + Taladrar porteria en revestimiento superior.
 + Utilizar plantilla.
@@ -14,14 +13,14 @@ sidebar_position: 3
 + Rebarbar.
 
 ![porteria](../../static/ima_A320/T.porteria.jpg)
-
+***
 ## op 20
 + Taladrar drenajes en revestimiento inferior.
 + Secuencia de taladrado 2,5 - 4,8 - 6,33.
 + Rebarbar.
 
 ![drenajes](../../static/ima_A320/T.drenajes.jpg)
-
+***
 ## op 30
 + Taladrar costillas de 4 a 13 en revestimiento superior e inferior.
 + Secuencia de taladrado costillas 9 a 13: 2,5 - 3,25 - 4,17
@@ -30,7 +29,7 @@ sidebar_position: 3
 
 ![T.costillas](../../static/ima_A320/T.costillas.jpg)
 
-
+***
 ## op 40
 
 + Taladrar costillas de 2 y 3 en revestimiento superior e inferior.
@@ -38,13 +37,16 @@ sidebar_position: 3
 + Rebarbar.
 
 ![T.costillas1](../../static/ima_A320/T.costillas_1.jpg)
+***
 ## op 50
 + Rebarbar Taladros de Intercambialidad.
-+ En Revestimiento superior e inferior.
++ En Revestimiento Superior e Inferior.
 + Caras exterior e interior.
 
 ![Rebarbar](../../static/ima_A320/Mapeado.jpg)
+***
 ## op 60
+
 + Situar y taladrar a previo bandas portatuercas, karmans y soportes electicos.
 1. Situar y taladrar a previo bandas portatuercas 
 
@@ -53,12 +55,13 @@ sidebar_position: 3
 ![Situado](../../static/ima_A320/Situado3.jpg)
 
 2. Situar y taladrar a previo karmans.
-
++ En Revestimiento Superior e Inferior.
 ![Situado](../../static/ima_A320/Situado1.jpg)
 
 3. Situar y taladrar a previo  soportes electicos.
 
 ![Situado](../../static/ima_A320/Situado_3.jpg)
+***
 
 ## op 70
 + Situar y taladrar bandas rigidas y preparar para sellar.
@@ -72,22 +75,25 @@ sidebar_position: 3
 
 |Remaches      |---------|Ubicacion rack|
 |:------------:|---------|:------------:|
-|?|         |?           |
+|MS20426AD3-3-5|         |B15           |
 |Tuercas       |---------|Ubicacion rack| 
 |MS21060L3     |         |B19           |
 ![masas](../../static/ima_A320/masas.jpg)
-
+***
 ## op 80
 + Taladrar y Avellanar Karmans.
 + Secuencia de taladrado 2,5 - 3,25 - 4,15.
 
 ![karmans](../../static/ima_A320/A.karmans1.jpg)
+***
 ## op 90
 + Taladrar y Avellanar Antipeeling.
++ En Revestimiento Superior e Inferior.
 + Secuencia de taladrado 2,5 - 3,25 - 4,15.
 
 
-![antipeeling](../../static/ima_A320/A.antipeeling.jpg)* Aplicar caramelo.
+![antipeeling](../../static/ima_A320/A.antipeeling.jpg) **Aplicar caramelo.**
+***
 ## op 101 
 + Remachar Bocaitos.
 
@@ -98,8 +104,11 @@ sidebar_position: 3
 |MS21072L04    |         |B25           |
  
 ![bocaitos](../../static/ima_A320/R.bocaitos.jpg)
+***
 ## op 102 
 + Verificar Bocaitos.
+
+***
 ## op 110 
 + Taladrar desagues en revestimiento inferior.
 + Utilizar plantilla.
@@ -107,9 +116,10 @@ sidebar_position: 3
 + Rebarbar.
 
 ![desagues](../../static/ima_A320/T.desagues.jpg)
-
+***
 ## op 120
-Taladrar y Remachar Spacematic.
+* Taladrar y Remachar Spacematic.
++ En Revestimiento Superior e Inferior.
 
  
 |Remaches      |---------|Ubicacion rack|
@@ -123,18 +133,22 @@ Taladrar y Remachar Spacematic.
 ![Spacematic](../../static/ima_A320/R.spacematic.jpg)
 
 ![Spacematic](../../static/ima_A320/R.spacematic_1.jpg)
+***
 ## op 125
 + Verificar Remachado Spacematic.
+
+***
 ## op 130
 + Sellar bandas portatuercas, bandas rigidas, soportes electricos y porteria.  
 
 ![sellar](../../static/ima_A320/sellar.jpg)
 
 ![sellar1](../../static/ima_A320/Sellar_1.jpg)
- 
+***
 
 ## op 140
 * Avellanar y Remachar bandas.
++ En Revestimiento Superior e Inferior.
 
 |Remaches   |---------|Ubicacion rack|
 |:----------|---------|:------------:|
@@ -155,9 +169,11 @@ Taladrar y Remachar Spacematic.
 
 |Remaches   |---------|Ubicacion rack|
 |:----------|---------|:------------:|
-|?|         |?          |
+|ABS0326-3-5|         |A21          |
 ![soportes](../../static/ima_A320/R.elec.jpg)
 ![soportes](../../static/ima_A320/R.elec_1.jpg)
+
+***
 ## op 150
 + Remachar Herraje metalico a costilla 4.
 
@@ -188,11 +204,13 @@ Taladrar y Remachar Spacematic.
 |ABS0258-8A|         |A18           |
 
 ![Angular](../../static/ima_A320/R.angular_3.jpg)
+***
 
 ## op 151
 + Realizar: IV. Medicion de Continuidad.
 
 ![/IV.continuidad](../../static/ima_A320/IV.continuidad.jpg)
+***
 ## op 160
 + Remachar Porteria.
 
@@ -209,6 +227,7 @@ Taladrar y Remachar Spacematic.
 ![R.Porteria](../../static/ima_A320/porteria1.jpg)
 
 + Remachar Karmans.
++ En Revestimiento Superior e Inferior.
 
 |Remaches  |---------|Ubicacion rack|
 |:-------- |---------|:------------:|
@@ -224,9 +243,9 @@ Taladrar y Remachar Spacematic.
 ![karmans](../../static/ima_A320/A.karmans2.jpg)
 ![R.Karmans](../../static/ima_A320/R.karmans.jpg)
 
-
+***
 ## op 170
-+ Remachar Costillas de la 3 a la 13.
++ Remachar Costillas en Revestimiento Superior.
 
 |Remaches  |---------|Ubicacion rack|
 |:-------- |---------|:------------:|
@@ -255,17 +274,20 @@ Taladrar y Remachar Spacematic.
 + Remachar Costilla  3.
 
 ![R.costillas](../../static/ima_A320/R.costillas1.jpg)
-
+***
 ## op 171
 + Realizar: IV. Medicion de Estaje.
 
 ![Medicion de Estaje](../../static/ima_A320/IV.estaje.jpg)
-
+***
 ## op 180
 + Realizar:   FOD.
-
+***
 ## op 190
 + Realizar:  Check-List
++ Reparar defectos encontrados.
+***
 ## op 200
 + Verificar:  Check-List
+***
  
