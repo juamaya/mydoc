@@ -87,7 +87,7 @@ sidebar_position: 3
 + Secuencia de taladrado 2,5 - 3,25 - 4,15.
 
 
-![antipeeling](../../static/ima_A320/A.antipeeling1.jpg)* Aplicar caramelo.
+![antipeeling](../../static/ima_A320/A.antipeeling.jpg)* Aplicar caramelo.
 ## op 101 
 + Remachar Bocaitos.
 
@@ -134,7 +134,7 @@ Taladrar y Remachar Spacematic.
  
 
 ## op 140
-* Avellanar y Remachar bandas .
+* Avellanar y Remachar bandas.
 
 |Remaches   |---------|Ubicacion rack|
 |:----------|---------|:------------:|
@@ -146,14 +146,18 @@ Taladrar y Remachar Spacematic.
 |ABS0214-4-6|         |A16           |
 |ABS0214-4-7|         |A17           |
 
- 
-
+![bandas](../../static/ima_A320/T.bandas.jpg)
 ![bandas](../../static/ima_A320/R.bandas1.jpg)
-
 ![bandas](../../static/ima_A320/R.bandas2.jpg)
 ![bandas](../../static/ima_A320/R.bandas_1.jpg)
  
+*  Remachar soportes electricos. 
 
+|Remaches   |---------|Ubicacion rack|
+|:----------|---------|:------------:|
+|?|         |?          |
+![soportes](../../static/ima_A320/R.elec.jpg)
+![soportes](../../static/ima_A320/R.elec_1.jpg)
 ## op 150
 + Remachar Herraje metalico a costilla 4.
 
@@ -166,9 +170,9 @@ Taladrar y Remachar Spacematic.
 * Remachar Herraje metalico a costilla 9.
 
 |Remaches  |---------|Ubicacion rack|
-|:-------- |---------|:------------:|
-|DAN 5-5-4 |         |A24           |
-|DAN 7-6-8 |         |B13           |
+|:-------- |:-------:|:------------:|
+|DAN 5-5-4 |    A    |A24           |
+|DAN 7-6-8 |    A    |B13           |
 |Tuercas   |---------|Ubicacion rack|
 |ABS0258-5A|         |A6            |
 |ABS0258-6A|         |A3            |
@@ -193,9 +197,9 @@ Taladrar y Remachar Spacematic.
 + Remachar Porteria.
 
 |Remaches  |---------|Ubicacion rack|
-|:-------- |---------|:------------:|
-|DAN 5-5-6 |         |A23           |
-|DAN 5-5-7 |         |A28           |
+|:-------- |:-------:|:------------:|
+|DAN 5-5-6 |    A    |A23           |
+|DAN 5-5-7 |    A    |A28           |
 |Tuercas   |---------|Ubicacion rack| 
 |ABS0258-5A|         |A6            |
 
