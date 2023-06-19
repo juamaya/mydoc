@@ -2,14 +2,14 @@
 slug: first-blog-post
 title: First Blog Post
 authors:
-  name: Juan Marin
-  title: Aprendiendo-Docusaurus.v2  
+  name: JUAN MARIN
+  title: Aprendiendo Docusaurus.v2 y Markdown.  
  
 tags: [hola, docusaurus, Marin]
 ---
 
 ---
-![juan](../static/img/juan.jpg)
+![juan](../static/img-blog/juan1.jpg)
 
 ---
 > Aqui tienes un enlace para visitar mi Portafolio.
@@ -18,6 +18,12 @@ tags: [hola, docusaurus, Marin]
 
 ---
 ![alt text][logo]
+
+
+![Puerto-real](../static/img-blog/puerto-real.jpg)
+
+---
+
 >Usando React.js
 
 :::tip
@@ -28,11 +34,11 @@ Use the power of React to create interactive blog posts.
 <button onClick={() => alert('button clicked!')}>Click me!</button>
 ```
 
-<button onClick={() => alert('button clicked!')}>Click me!</button>
+<button onClick={() => alert('button clicked! Welcome.')}>Click me!</button>
 
 :::
 
-> *Aqui tienes el codigo para crear una pagina web con ***html.***
+> *Aqui tienes el codigo basico para crear una pagina web con ***html.***
 
 
 ```html
@@ -48,7 +54,7 @@ Use the power of React to create interactive blog posts.
   </body>
 </html>
 ```
-> *Aqui otro codigo para crear una pagina web con ***html y bootstrap.***
+> *Aqui otro codigo basico para crear una pagina web con ***html y bootstrap.***
 
 > Include the CDN:  Bootstrap’s CSS and JS.
 
@@ -72,22 +78,26 @@ Use the power of React to create interactive blog posts.
  
  
 
-Here's our logo (hover to see the title text):
+Here's markdown  logo (hover to see the title text):
 
  
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Markdown"
-___
-Atributos de texto _cursiva_ , **negrita** , `monoespaciado` .
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Este es el logo de Markdown"
+ 
+---
+### Aqui te muestro como conectar **Sensores**.
 
-Regla horizontal:
+![Sensor](../static/img-blog/Sensor.jpg)
+![Sensor](../static/img-blog/Sensor1.jpg)
+![Sensor](../static/img-blog/Sensor2.jpg)
 
 ---
 
+Atributos de texto _cursiva_ , **negrita** , `monoespaciado` .
 > Aqui pongo texto de relleno
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ducimus molestias perferendis temporibus adipisci ipsam assumenda? Tenetur repellendus perspiciatis sit itaque. Sapiente dignissimos consectetur reprehenderit quaerat expedita deleniti, amet eligendi aliquam quam distinctio facere dolorum unde nam magnam earum ea qui, deserunt reiciendis quod nihil. Ad explicabo, rem maiores nisi et cupiditate eligendi, fugiat asperiores dolores ipsa ex quo, iste illo aliquid inventore praesentium? Iure quaerat beatae inventore magni veniam vero eveniet necessitatibus placeat nostrum, exercitationem repellendus non nesciunt officia autem aspernatur perferendis, quam dicta perspiciatis dignissimos delectus distinctio sit doloremque accusamus sapiente. Laboriosam obcaecati modi placeat ipsa inventore fugit distinctio.
+_Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet_
+Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ducimus molestias perferendis temporibus adipisci ipsam assumenda? Tenetur repellendus perspiciatis sit itaque. Sapiente dignissimos consectetur reprehenderit quaerat expedita deleniti, amet eligendi aliquam quam **distinctio facere dolorum unde nam magnam earum ea qui, deserunt reiciendis quod nihil.  Ad explicabo, rem maiores nisi et cupiditate eligendi,   fugiat asperiores dolores ipsa ex quo, iste illo aliquid inventore praesentium? Iure quaerat beatae inventore magni veniam vero  eveniet necessitatibus placeat nostrum**, exercitationem repellendus non nesciunt officia autem aspernatur perferendis, quam dicta perspiciatis dignissimos `delectus distinctio sit doloremque accusamus sapiente. Laboriosam obcaecati modi placeat ipsa `inventore fugit distinctio.
 
  

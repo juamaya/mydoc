@@ -5,7 +5,7 @@ sidebar_position: 6
 # Union
 ***
 ## Operaciones de Union
-***
+ 
 ### * Taladrar Largero delantero.
 
  ![Titanio-sup](../../static/ima_A320/Union/T-Largero-delantero.jpg)
