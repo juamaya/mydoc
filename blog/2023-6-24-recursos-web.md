@@ -1,13 +1,16 @@
 ---
+ 
 slug:  blog-post
-title:  Blog Recursos Web
+title:  Recursos Web  Blog
+authors:
+  name: JUAN MARIN
+  title:  Paginas Web de recursos para programadores.
  
  
- 
-tags: [hola,  Marin]
+tags: [hola, docusaurus, Markdown, Marin]
 ---
 
-## Paginas Web de recursos para programadores.
+ 
 ---
 ![wave](../static/img-svg/wave1.svg)
 
@@ -19,14 +22,32 @@ tags: [hola,  Marin]
 ###  * Gradientes
 [uigradients](https://uigradients.com//)
 
+![Rastafari](../static/img-jpg/Rastafari.jpg)
+
 ---
 
 ###  *  Imágenes.
 
-[imágenes](https://unsplash.com/)
+[unsplash](https://unsplash.com/)
+
+[pexels](https://www.pexels.com/)
 
 ---
-![cuadro](../static/img-svg/cuadro.png)
+
+###  *  Quitar fondo de Imágenes.
+
+[remove.bg](https://www.remove.bg/)
+
+---
+###  * Generador de Imágenes.
+
+[freeimage.ai](https://freeimage.ai/)
+ 
+> Imagen creada con Inteligencia Artificial
+
+![cobra](../static/img-png/cobra.png)
+
+---
 ###  *  Imágenes tools.
 
 [onlineimagetools](https://onlineimagetools.com/)
@@ -35,45 +56,59 @@ tags: [hola,  Marin]
 
 ###  *   background.
 
-[background](https://bgjar.com/)
+[bgjar](https://bgjar.com/)
+
+![Circuit-Primary](../static/img-svg/Circuit-Primary.svg)
 
 ---
 
 ###  * Colores.
 
-[Colores](https://colorhunt.co/)
+[colorhunt](https://colorhunt.co/)
 
 
 ---
 
 ###  * Iconos.
 
-[Iconos](https://boxicons.com/)
+![ness-monster](../static/img-gif/ness-monster.gif)
+
+[boxicons](https://boxicons.com/)
+
+[iconfinder](https://www.iconfinder.com/)
+
+[icons8](https://icons8.com/)
+
+[flagicons](https://flagicons.lipis.dev/)
+
 
 
 ---
 
 ###  * Logos.
 
-[logo](https://logoipsum.com/)
+[logoipsum](https://logoipsum.com/)
 
 ![logo](../static/img-svg/logoipsum-282.svg)
 
+
+
+ 
 
 ---
 
 ###  * Ilustraciones.
 
-[Ilustraciones](https://undraw.co/illustrations)
+[undraw](https://undraw.co/illustrations)
 
 ---
 
 ###  * Compresión de imagenes .
 
-[Compresión](https://tinypng.com/)
+[tinypng](https://tinypng.com/)
 
 ---
-## Paginas Web de recursos CSS.
+##  * Paginas Web de recursos CSS.
 
 ---
 

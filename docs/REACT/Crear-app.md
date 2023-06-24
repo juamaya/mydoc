@@ -1,4 +1,11 @@
+---
+sidebar_position: 1
+---
+
+
+
 # Crear una app con Vite
+---
 
 ![vite](https://vitejs.dev/logo-with-shadow.png)
 
@@ -12,9 +19,12 @@ ABRIR LA CONSOLA DE COMANDOS CMD
 
 ---
 
-En la consola situada en la carpeta del proyecto escribimos el comando, para crear la App.:
+En la consola situada en la carpeta del proyecto escribimos el comando, para crear la App.
 
+~~~
 > npm create vite@latest
+~~~
+
 
 ---
 
@@ -24,8 +34,9 @@ En la consola situada en la carpeta del proyecto escribimos el comando, para cre
 
 En la consola situada en la carpeta del proyecto escribimos el comando:
 
+~~~
 > npm i react-router-dom
-
+~~~
 ---
 
 ## CORRER LA APP
@@ -33,14 +44,15 @@ En la consola situada en la carpeta del proyecto escribimos el comando:
 - Aqui abrimos la App en el navegador
 
 En la consola situada en la carpeta de la App escribimos el comando:
-
+~~~
 > npm run dev
+~~~
 
 ---
-# CODIGOS
+## CODIGOS
 index.html
 
-```index.html
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -64,7 +76,7 @@ index.html
 
 main.jsx
 
-```main.jsx
+```jsx
 
 import React from 'react'
 import ReactDOM from 'react-dom/client'
@@ -85,7 +97,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
 
 App.jsx
 
-```App.jsx
+```jsx
 import Inicio from "./componentes/paginas/Inicio";
 import A from "./componentes/paginas/A";
 import B from "./componentes/paginas/B";
@@ -123,7 +135,7 @@ export default function App() {
 
 - Este es el codigo del menu de navegacion
 
-```Navbar.jsx
+```jsx
 import React from "react";
 import { Link } from "react-router-dom";
 import car2 from './imagenes/car2.png'
@@ -186,7 +198,7 @@ export default navbar;
 
 - Este es el codigo del pie de pagina.
 
-```Footer.jsx
+```jsx
 import React from 'react'
 
 const Footer = () => {
@@ -201,7 +213,8 @@ export default Footer
 ---
 ### BotonScroll.jsx
 - Este es el codigo de un boton que al hacer click en el te lleva al inicio de la pagina.
-```BotonScroll.jsx
+
+```jsx
 import React from 'react'
 
 const BotonScroll = () => {
@@ -236,7 +249,7 @@ export default BotonScroll
 
 ### A.jsx
 
-```A.jsx
+```jsx
 import React from "react";
 
 const A = () => {
@@ -255,7 +268,7 @@ export default A;
 
 ### B.jsx
 
-```B.jsx
+```jsx
 import React from "react";
 
 const B = () => {
@@ -274,7 +287,7 @@ export default B;
 
 ### C.jsx
 
-```C.jsx
+```jsx
 import React from "react";
 
 const C = () => {
