@@ -9,6 +9,10 @@ sidebar_position: 1
 
 ![A320](../../static/ima_A320/A320.jpg "A320 Despegando.")
 
+![World1](../../static/img-svg/World1.svg "World")
+
 >*Aqui puedes ver una grafica de las producciones anuales.*
 
 ![HTP_A320](../../static/ima_A320/Grafica-A320.jpg "HTP_A320")
+
+

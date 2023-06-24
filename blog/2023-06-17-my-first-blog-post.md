@@ -3,16 +3,16 @@ slug: first-blog-post
 title: First Blog Post
 authors:
   name: JUAN MARIN
-  title: Aprendiendo Docusaurus.v2 y Markdown.  
+  title:  Aprendiendo Docusaurus.v2 y Markdown.  
  
 tags: [hola, docusaurus, Marin]
 ---
 
 ---
-![juan](../static/img-blog/juan1.jpg)
+![juan](../static/img-png/juan.png)
 
 ---
-> Aqui tienes un enlace para visitar mi Portafolio.
+ * Aqui tienes un enlace para visitar mi Portafolio.
 
 [PORTAFOLIO](https://juamaya.github.io/portafolio)
 
@@ -86,7 +86,7 @@ Here's markdown  logo (hover to see the title text):
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Este es el logo de Markdown"
  
 ---
-### Aqui te muestro como conectar **Sensores**.
+###  Aqui te muestro como conectar **Sensores**.
 
 ![Sensor](../static/img-blog/Sensor.jpg)
 ![Sensor](../static/img-blog/Sensor1.jpg)
@@ -94,6 +94,9 @@ Here's markdown  logo (hover to see the title text):
 
 ---
 
+![Sensor](../static/img-svg/World.svg)
+
+---
 Atributos de texto _cursiva_ , **negrita** , `monoespaciado` .
 > Aqui pongo texto de relleno
 
