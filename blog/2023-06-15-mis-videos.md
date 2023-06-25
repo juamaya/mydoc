@@ -1,13 +1,12 @@
 ---
 slug: 2-blog-post
-title: Mi Videos Blog 
+title: Mi Videos Blog
 authors:
   name: JUAN MARIN
   title: Mi Videos subidos a YouTube.
 
 tags: [hola, videos, Marin]
 ---
-
 
 ## Mi Canal de YouTube
 
@@ -21,26 +20,13 @@ tags: [hola, videos, Marin]
 
 [My Canal You Tube](https://www.youtube.com/@juanmarin5371)
 
-___
-
+---
 
 ## Videos
- 
+
 > Aqui tienes unos enlaces para ver algunos videos.
 
- ![ondas](../static/img-svg/ondas1.svg)
-
- 
-
- <div className="embed-responsive embed-responsive-16by9">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/kKHGgRUfNfc" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
-</div>
-
-
-
-
- 
-
+![ondas](../static/img-svg/ondas1.svg)
 
 ### BATTERY
 
@@ -60,8 +46,6 @@ ___
 
 ### PWM
 
-
 [PWM.marin](https://www.youtube.com/watch?v=DEhfrV_MPi4&t=6s)
 
-
- ![ondas](../static/img-svg/ondas1.svg)
+![ondas](../static/img-svg/ondas1.svg)

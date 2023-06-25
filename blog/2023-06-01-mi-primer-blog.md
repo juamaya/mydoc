@@ -167,10 +167,7 @@ Para crear listas ordenadas debes utilizar la sintaxis de tipo: «número.» 1.
 </div>
 ```
 
-<div className="embed-responsive embed-responsive-16by9">
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/CG3N1uKgK6Q" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
-  
-</div>
+ 
 
 ---
 
