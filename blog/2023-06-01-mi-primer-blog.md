@@ -1,11 +1,11 @@
 ---
-slug: first-blog-post
-title: First Blog 
+slug: 1-blog-post
+title: Mi Primer Blog 
 authors:
   name: JUAN MARIN
   title: Aprendiendo Docusaurus.v2 y Markdown.
 
-tags: [hola, docusaurus, Marin]
+tags: [Markdown, docusaurus, Marin]
 ---
 
 ![juan](../static/img-png/juan3.png)
@@ -17,6 +17,8 @@ tags: [hola, docusaurus, Marin]
 [PORTAFOLIO](https://juamaya.github.io/portafolio)
 
 ---
+
+
 
 ![alt text][logo]
 
