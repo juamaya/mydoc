@@ -1,6 +1,6 @@
 ---
 slug: 1-blog-post
-title: Mi Primer Blog 
+title: Mi Primer Blog
 authors:
   name: JUAN MARIN
   title: Aprendiendo Docusaurus.v2 y Markdown.
@@ -17,8 +17,6 @@ tags: [Markdown, docusaurus, Marin]
 [PORTAFOLIO](https://juamaya.github.io/portafolio)
 
 ---
-
-
 
 ![alt text][logo]
 
@@ -161,6 +159,21 @@ Para crear listas ordenadas debes utilizar la sintaxis de tipo: «número.» 1.
 
 ---
 
+## VIDEOS
+
+```html
+<div className="embed-responsive embed-responsive-16by9">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/kKHGgRUfNfc" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+</div>
+```
+
+<div className="embed-responsive embed-responsive-16by9">
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/CG3N1uKgK6Q" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+  
+</div>
+
+---
+
 ## Aqui te muestro como conectar **Sensores**.
 
 ![Sensor](../static/img-blog/Sensor.jpg)
@@ -232,6 +245,7 @@ Use the power of React to create interactive blog posts.
   </body>
 </html>
 ```
+
 ---
 
 > Aqui pongo texto de relleno
