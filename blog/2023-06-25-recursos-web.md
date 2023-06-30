@@ -25,6 +25,7 @@ tags: [hola, recursos, Marin]
 > Imagen creada con Inteligencia Artificial
 
 ![cobra](../static/img-png/cobra.png)
+ 
 
 ---
 

@@ -18,13 +18,53 @@ tags: [Markdown, docusaurus, Marin]
 
 ---
 
+
+
+- Aqui tienes un enlace para visitar una pagina web. 
+
+[WEB](https://juamaya.github.io/web)
+
+---
+
+
+
+- Aqui tienes un enlace para visitar una web que consume una API. 
+
+[RICK and MORTY](https://juamaya.github.io/morty)
+
+---
+
 ![alt text][logo]
 
 ![Puerto-real](../static/img-blog/puerto-real.jpg)
 
 ---
 
-![Sensor](../static/img-svg/World.svg)
+
+
+
+## Crear codigos QR con la consola de comandos o CMD.
+
+
+
+
+> El Símbolo del sistema, también llamado CMD, forma parte de Windows y no puede ser desinstalado. Es una herramienta que, mediante comandos, permite realizar acciones avanzadas.
+
+> Escribir el comando y una URL o tu nombre todo **junto** y pulsar enter.
+
+`curl qrcode.show/Antonio-Lopez ` 
+
+> Ejemplo:
+
+![Alt text](image.png)
+
+
+---
+
+> Imagenes creada con Inteligencia Artificial
+
+ 
+ ![cobra](../static/img-png/dog.png) ![cobra](../static/img-png/dog1.png)
 
 ---
 
@@ -144,7 +184,9 @@ Para crear listas ordenadas debes utilizar la sintaxis de tipo: «número.» 1.
  [enlace en línea](http://www.google.com)
 ```
 
-[enlace en línea](http://www.google.com)
+[enlace en línea](https://www.google.com)
+
+<https://www.google.com>
 
 ---
 
@@ -169,13 +211,6 @@ Para crear listas ordenadas debes utilizar la sintaxis de tipo: «número.» 1.
 
  
 
----
-
-## Aqui te muestro como conectar **Sensores**.
-
-![Sensor](../static/img-blog/Sensor.jpg)
-![Sensor](../static/img-blog/Sensor1.jpg)
-![Sensor](../static/img-blog/Sensor2.jpg)
 
 ---
 
@@ -194,57 +229,14 @@ Use the power of React to create interactive blog posts.
 :::
 
 ---
+ 
+ ![World](../static/img-svg/World.svg)   
+ 
+ 
 
-## Usando index.html
-
-> \*Aqui tienes el codigo basico para crear una pagina web con **_html._**
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>My Web</title>
-  </head>
-  <body>
-    <h1>Hello, world!</h1>
-  </body>
-</html>
-```
-
-> \*Aqui otro codigo basico para crear una pagina web con **_html y bootstrap._**
-
-> Include the CDN: Bootstrap’s CSS and JS.
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Bootstrap demo</title>
-    <link
-      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css"
-      rel="stylesheet"
-      integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65"
-      crossorigin="anonymous"
-    />
-  </head>
-  <body>
-    <h1>Hello, world!</h1>
-
-    <script
-      src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
-      integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"
-      crossorigin="anonymous"
-    ></script>
-  </body>
-</html>
-```
+ 
 
 ---
-
 > Aqui pongo texto de relleno
 
 _Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet_

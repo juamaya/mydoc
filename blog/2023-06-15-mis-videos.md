@@ -16,7 +16,7 @@ tags: [hola, videos, Marin]
 
 ![juan](../static/img-png/moto.png)
 
-> Aqui tienes un enlace para ver mi canal de YouTube.
+> Aqui tienes un enlace para visitar mi canal de YouTube.
 
 [My Canal You Tube](https://www.youtube.com/@juanmarin5371)
 
