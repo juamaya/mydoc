@@ -39,7 +39,11 @@ tags: [Markdown, docusaurus, Marin]
 ![Puerto-real](../static/img-blog/puerto-real.jpg)
 
 ---
+> Imagen creada con Inteligencia Artificial
 
+![cobra](../static/img-png/cobra.png)
+
+---
 
 
 
@@ -56,17 +60,13 @@ tags: [Markdown, docusaurus, Marin]
 
 > Ejemplo:
 
-![Alt text](image.png)
-
-
----
-
-> Imagenes creada con Inteligencia Artificial
-
+![Alt text](qr.png)
  
- ![cobra](../static/img-png/dog.png) ![cobra](../static/img-png/dog1.png)
-
 ---
+ 
+
+
+
 
 ## SINTAXIS MARKDOWN
 

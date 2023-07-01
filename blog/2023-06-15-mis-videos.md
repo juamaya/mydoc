@@ -15,6 +15,9 @@ tags: [hola, videos, Marin]
 > Imagen creada con Inteligencia Artificial.
 
 ![juan](../static/img-png/moto.png)
+![juan](../static/img-png/dog.png)
+
+---
 
 > Aqui tienes un enlace para visitar mi canal de YouTube.
 

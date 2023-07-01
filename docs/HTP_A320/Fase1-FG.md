@@ -257,8 +257,19 @@ Revestimiento Inferior.
 
 ![karmans](../../static/ima_A320/Karmans-Inf.jpg)
 
-![R.Karmans](../../static/ima_A320/R.karmans.jpg)
 ***
+
+Tolerancia
+
+![tolerancia](../../static/ima_A320/tolerancia.jpg )
+
+
+![R.Karmans](../../static/ima_A320/R.karmans.jpg)
+
+
+
+
+---
 ## op 170
 + Remachar Costillas en Revestimiento Superior.
 

@@ -16,15 +16,11 @@ tags: [hola, recursos, Marin]
 
 [123apps](https://123apps.com/)
 
----
+ 
 
-### \* Generador de Imágenes.
 
-[freeimage.ai](https://freeimage.ai/)
 
-> Imagen creada con Inteligencia Artificial
 
-![cobra](../static/img-png/cobra.png)
  
 
 ---
