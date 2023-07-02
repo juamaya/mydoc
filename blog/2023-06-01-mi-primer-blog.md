@@ -10,6 +10,8 @@ tags: [Markdown, docusaurus, Marin]
 
 ![juan](../static/img-png/juan3.png)
 
+![logo](./imagenes/logo.jpg)
+
 ---
 
 - Aqui tienes un enlace para visitar mi Portafolio.
@@ -59,8 +61,7 @@ tags: [Markdown, docusaurus, Marin]
 `curl qrcode.show/Antonio-Lopez ` 
 
 > Ejemplo:
-
-![Alt text](qr.png)
+  ![Alt text](./imagenes/qr.png)  
  
 ---
  
