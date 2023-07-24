@@ -1,5 +1,5 @@
 ---
-slug: 3-blog-post
+slug: 4-blog-post
 title: Recursos Web  Blog
 authors:
   name: JUAN MARIN
@@ -8,20 +8,18 @@ authors:
 tags: [hola, recursos, Marin]
 ---
 
-## [recursos.cuarzo](https://recursos.cuarzo.dev/)
+
+---
+###  * En este enlace contiene varios recursos. 
+
+ [recursos.cuarzo](https://recursos.cuarzo.dev/)
 
 ![wave](../static/img-svg/wave1.svg)
 
+---
 ### \* Edit, Convert, Create
 
 [123apps](https://123apps.com/)
-
- 
-
-
-
-
- 
 
 ---
 

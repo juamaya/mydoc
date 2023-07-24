@@ -1,9 +1,9 @@
 ---
-slug: 2-blog-post
-title: Mi Videos Blog
+slug: 3-blog-post
+title: Mis Videos Blog
 authors:
   name: JUAN MARIN
-  title: Mi Videos subidos a YouTube.
+  title: Mis Videos subidos a YouTube.
 
 tags: [hola, videos, Marin]
 ---

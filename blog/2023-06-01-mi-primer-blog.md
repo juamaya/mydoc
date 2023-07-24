@@ -12,39 +12,13 @@ tags: [Markdown, docusaurus, Marin]
 
 ![logo](./imagenes/logo.jpg)
 
----
-
-- Aqui tienes un enlace para visitar mi Portafolio.
-
-[PORTAFOLIO](https://juamaya.github.io/portafolio)
-
----
-
-
-
-- Aqui tienes un enlace para visitar una pagina web. 
-
-[WEB](https://juamaya.github.io/web)
-
----
-
-
-
-- Aqui tienes un enlace para visitar una pagina web que consume una API. 
-
-[RICK and MORTY](https://juamaya.github.io/morty)
-
----
-
-- Aqui tienes un enlace para visitar una pagina web que utiliza una libreria particles-js. 
-
-[Particulas](https://juamaya.github.io/particulas)
-
+ 
+ 
 ---
 
 ![alt text][logo]
 
-![Puerto-real](../static/img-blog/puerto-real.jpg)
+ 
 
 ---
 > Imagen creada con Inteligencia Artificial
