@@ -93,7 +93,7 @@ let dog = { name: "Spot", breed: "Dalmatian" }; // Tipo Objetos
 
 >Puedes llamar a una variable prácticamente como quieras, pero existen limitaciones. En general, debes limitarte a usar caracteres latinos (0-9, a-z, A-Z) y el caracter de subrayado.
 
-:::tip Nombres icorrectos
+:::tip Nombres correctos
 :::
 age, 
 myAge,

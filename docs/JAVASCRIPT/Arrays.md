@@ -230,6 +230,7 @@ console.log(result);
 
 :::success
 Array.sort()
+
 El método sort() ordena los elementos de un arreglo (array) localmente y devuelve el arreglo ordenado.
 
 :::

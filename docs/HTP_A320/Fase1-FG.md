@@ -274,16 +274,16 @@ Tolerancia
 + Remachar Costillas en Revestimiento Superior.
 
 |Remaches  |---------|Ubicacion rack|
-|:-------- |---------|:------------:|
+|:-------- |:-------:|:------------:|
 |DAN 7-5A3 |         |B8            |
 |DAN 5-5-3 |         |A22           |
-|DAN 5-5-4 |         |A24           |
+|DAN 5-5-4 |    A    |A24           |
 |DAN 5-5-6 |         |A23           |
 |DAN 7-6-4 |         |B9            |
-|DAN 7-6-5 |         |B11           |
+|DAN 7-6-5 |    A    |B11           |
 |DAN 5-8-8 |         |A26           |
 |DAN 5-8-12|         |A20           |
-|DAN 5-8-13|         |A30           |
+|DAN 5-8-13|   A     |A30           |
 |Tuercas   |---------|Ubicacion rack| 
 |ABS0258-5A|         |A6            |
 |ABS0258-6A|         |A3            |
