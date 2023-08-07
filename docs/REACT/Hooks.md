@@ -2,13 +2,13 @@
 sidebar_position: 3
 ---
 ---
- ## Using the State Hook
+### Using the useState Hook
 
-
+:::tip useState 
 ```jsx
 import React, { useState } from 'react';
 
-function Example() {
+export   function Example() {
   // Declare a new state variable, which we'll call "count"
   const [count, setCount] = useState(0);
 
@@ -23,17 +23,18 @@ function Example() {
 }
 
 ```
+:::
 
 ---
 
-## Using the Effect Hook
+### Using the useEffect Hook
 
-
+:::info useEffect
 ```jsx
 
 import React, { useState, useEffect } from 'react';
 
-function Example() {
+export   function Example() {
   const [count, setCount] = useState(0);
 
   // Similar to componentDidMount and componentDidUpdate:
@@ -54,4 +55,39 @@ function Example() {
 
 
 ```
+:::
+
+---
+### Using the useRef Hook
+
+:::caution useRef
+ 
+
+```jsx
+import { useRef } from 'react';
+
+export   function Counter() {
+  let ref = useRef(0);
+
+  function handleClick() {
+    ref.current = ref.current + 1;
+    alert('¡Hiciste clic ' + ref.current + ' veces!');
+  }
+
+  return (
+    <button onClick={handleClick}>
+      ¡Hazme clic!
+    </button>
+  );
+}
+
+```
+
+:::
+
+
+
+
+ 
+
 ---

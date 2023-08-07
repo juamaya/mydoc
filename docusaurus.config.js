@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Welcome My Website ',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Mi Pagina Web de Documentacion.',
   favicon: 'static/img/favicon.ico',
 
   // Set the production url of your site here
@@ -83,9 +83,6 @@ const config = {
       },
       footer: {
         style: 'dark',
-         
-         
-      
         copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
       },
       prism: {

@@ -39,6 +39,8 @@ sidebar_position: 1
 
 :::
 
+---
+
 :::tip Datos Tipo estructural
 
 8- Object: typeof instance === "object". 
@@ -151,7 +153,6 @@ const daysInWeek = 7;
 Ejecuta una sentencia si una condición específicada es evaluada como verdadera
  
 >if (condicion) {expresion}
-:::
 
 ```javascript
 let x = 3;
@@ -162,6 +163,10 @@ if (x === y) {
 }
 ```
 
+:::
+
+
+
 ### El operador condicional (ternario)
 
 :::info
@@ -169,7 +174,6 @@ El operador condicional (ternario) es el único operador en JavaScript que tiene
 
 > condición ? expr1 : expr2
 
-:::
 
 ```javascript
 let isMember = true;
@@ -178,6 +182,12 @@ let isMember = true;
 
 //"La Cuota es de: $2.00"
 ```
+
+:::
+
+---
+
+:::caution 
 
 > También es posible realizar evaluaciones ternarias múltiples (Nota: El operador condicional es asociativo):
 
@@ -192,11 +202,15 @@ let firstCheck = false,
 
 console.log(access); // muestra "Acceso Permitido"
 ```
+:::
+
+---
+
 ### condicional (if...else)
 
 :::info
-Ejecuta una sentencia si una condición específicada es evaluada como verdadera. Si la condición es evaluada como falsa, otra sentencia puede ser ejecutada.
-:::
+
+>Ejecuta una sentencia si una condición específicada es evaluada como verdadera. Si la condición es evaluada como falsa, otra sentencia puede ser ejecutada.
 
 ```javascript
 let x = 3;
@@ -209,3 +223,6 @@ if (x === y) {
 }
 
 ```
+
+:::
+
