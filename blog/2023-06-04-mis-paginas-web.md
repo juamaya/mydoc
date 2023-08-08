@@ -35,9 +35,16 @@ tags: [Markdown, web  , Marin]
 
 ---
 
+- Aqui tienes un enlace para visitar una pagina web que consume una API. 
+
+[POKEMON](https://juamaya.github.io/pokemon)
+---
+
+---
+
 - Aqui tienes un enlace para visitar una pagina web que utiliza una libreria particles-js. 
 
-[Particulas](https://juamaya.github.io/particulas)
+[PARTICULAS](https://juamaya.github.io/particulas)
 ---
 
 ---

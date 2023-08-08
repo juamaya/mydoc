@@ -9,7 +9,6 @@ tags: [Markdown, docusaurus, Marin]
 ---
 
 ![juan](../static/img-png/juan3.png)
-
 ![logo](./imagenes/logo.jpg)
 
  
@@ -32,7 +31,7 @@ tags: [Markdown, docusaurus, Marin]
 ## Crear codigos QR con la consola de comandos o CMD.
 
 
-
+:::tip
 
 > El Símbolo del sistema, también llamado CMD, forma parte de Windows y no puede ser desinstalado. Es una herramienta que, mediante comandos, permite realizar acciones avanzadas.
 
@@ -43,6 +42,8 @@ tags: [Markdown, docusaurus, Marin]
 > Ejemplo:
   ![Alt text](./imagenes/qr.png)  
  
+:::
+
 ---
  
 
@@ -51,13 +52,16 @@ tags: [Markdown, docusaurus, Marin]
 
 ## SINTAXIS MARKDOWN
 
+:::danger markdown
 Here's markdown logo (hover to see the title text):
+
+:::
 
 ![alt text][logo]
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Este es el logo de Markdown"
 
- 
+
 
 ---
 

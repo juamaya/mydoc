@@ -9,7 +9,9 @@ sidebar_position: 1
 
 ![A320](../../static/ima_A320/A320.jpg "A320 Despegando.")
 
-
+:::info HTP-A320
+<button onClick={() => alert('Operaciones realizadas en cada fase del programa **HTP-A320**')}>Click me!</button>
+:::
 
 ---
 

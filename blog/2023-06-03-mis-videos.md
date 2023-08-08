@@ -12,10 +12,9 @@ tags: [hola, videos, Marin]
 
 ---
 
-> Imagen creada con Inteligencia Artificial.
+> Imagenes creada con Inteligencia Artificial.
 
-![juan](../static/img-png/moto.png)
-![juan](../static/img-png/dog.png)
+![Kim](../static/img-jpg/Kim.jpg) ![dog](../static/img-png/dog.png)
 
 ---
 
