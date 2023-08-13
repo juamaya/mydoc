@@ -28,6 +28,13 @@ tags: [Markdown, web  , Marin]
 
 ---
 
+- Aqui tienes un enlace para visitar una pagina web. 
+
+[WEB-GRID](https://juamaya.github.io/web-grid)
+---
+
+---
+
 - Aqui tienes un enlace para visitar una pagina web que consume una API. 
 
 [RICK and MORTY](https://juamaya.github.io/morty)
@@ -45,6 +52,13 @@ tags: [Markdown, web  , Marin]
 - Aqui tienes un enlace para visitar una pagina web que utiliza una libreria particles-js. 
 
 [PARTICULAS](https://juamaya.github.io/particulas)
+---
+
+---
+
+- Aqui tienes un enlace para visitar una pagina web que utiliza una libreria particles-js. 
+
+[PARTICULAS 1](https://juamaya.github.io/particles)
 ---
 
 ---
