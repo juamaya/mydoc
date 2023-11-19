@@ -17,14 +17,22 @@ tags: [Markdown, docusaurus, Marin]
 
 ![alt text][logo]
 
- 
+ ---
+
+ ### * Usar  Microsoft  Office 365 gratis.
+:::tip
+
+> Pulsa a la vez las teclcas 
+
+![Microsoft OFFICE 365](imagenes/key.png)
+:::
+> Se abrira esta ventana
+---
+
+![Microsoft OFFICE 365](imagenes/365.png)
 
 ---
-> Imagen creada con Inteligencia Artificial
 
-![cobra](../static/img-png/cobra.png)
-
----
 
 
 
@@ -46,7 +54,11 @@ tags: [Markdown, docusaurus, Marin]
 
 ---
  
+> Imagen creada con Inteligencia Artificial
 
+![cobra](../static/img-png/cobra.png)
+
+---
 
 
 

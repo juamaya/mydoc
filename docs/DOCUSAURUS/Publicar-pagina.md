@@ -36,7 +36,7 @@ ABRIR EL TERMINAL EN LA CARPETA DEL PROYECTO EN VSCODE.
 
 - INICIAR GIT (Repositorio Local)
 
-> En la consola git-bash situada en la carpeta del proyecto escribimos el comando
+ > En la consola git-bash situada en la carpeta del proyecto escribimos el comando
 ```
 >git init
 >git add .
@@ -47,7 +47,7 @@ ABRIR EL TERMINAL EN LA CARPETA DEL PROYECTO EN VSCODE.
 
 - SUBIR REPOSITORIO A GITHUB (Repositorio Remoto)
 
-> En la consola git-bash situada en la carpeta del proyecto escribimos el comando
+ > En la consola git-bash situada en la carpeta del proyecto escribimos el comando
 ```
 >git branch -M main
 >git remote add origin https://github.com/juamaya/myWeb.git
@@ -58,11 +58,21 @@ ABRIR EL TERMINAL EN LA CARPETA DEL PROYECTO EN VSCODE.
 
 - SUBIR CAMBIOS AL REPOSITORIO A GITHUB
 
-> En la consola git-bash situada en la carpeta del proyecto escribimos el comando
+ > En la consola git-bash situada en la carpeta del proyecto escribimos el comando
 ```
 >git add .
 >git commit -m "first change"
 >git push
+```
+
+---
+
+
+- VER  TODOS LOS COMMITS
+
+ > En la consola git-bash situada en la carpeta del proyecto escribimos el comando
+```
+>git log --oneline --graph --decorate --all
 ```
 
 ---

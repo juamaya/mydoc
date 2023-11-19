@@ -30,6 +30,13 @@ tags: [Markdown, web  , Marin]
 
 - Aqui tienes un enlace para visitar una pagina web. 
 
+[WEB-SLIDER](https://juamaya.github.io/web-slider)
+---
+
+---
+
+- Aqui tienes un enlace para visitar una pagina web. 
+
 [WEB-GRID](https://juamaya.github.io/web-grid)
 ---
 
