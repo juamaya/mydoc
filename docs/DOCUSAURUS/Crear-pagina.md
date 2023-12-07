@@ -17,7 +17,7 @@ sidebar_position: 1
 ---
 
 
- ## CREAR PAGINA
+ # CREAR PAGINA
 
     CREAR UNA CARPETA DEL PROYECTO:
 

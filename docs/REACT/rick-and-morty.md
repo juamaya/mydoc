@@ -4,14 +4,30 @@ sidebar_position: 6
 
 ---
 
+### ENLACE PARA DESCARGAR Node.js
 :::tip
-Para crear el proyecto rick-and-morty, con React y javaScript
+
+  [  DESCARGAR Node.js](https://nodejs.org/en)
 :::
 
-:::info
-En la terminal situada en la carpeta de los proyectos escribimos el comando:
+---
+### ENLACE DESCARGAR UN EDITOR DE CODIGO
+:::tip
+  [ DESCARGAR VScode](https://code.visualstudio.com/)
 
-C:\Users\marin\Desktop\REACT_CURSO> npm create vite
+:::
+
+---
+
+
+:::tip APP
+* Crear el proyecto rick-and-morty, con React y javaScript
+:::
+
+:::info Crear el proyecto
+* En la terminal situada en la carpeta de los proyectos escribimos el comando:
+
+C:\Users\marin\Desktop\REACT_CURSO> **`npm create vite` **
 
 √ Project name: ... rick-and-morty
 
@@ -21,25 +37,25 @@ C:\Users\marin\Desktop\REACT_CURSO> npm create vite
 
 :::
 
-:::info
+:::info  ENTRAMOS EN LA CARPETA DEL PROYECTO:
 
-ENTRAMOS EN LA CARPETA DEL PROYECTO:
 
-> PS C:\Users\marin\Desktop\REACT_CURSO> cd rick-and-morty
+
+> PS C:\Users\marin\Desktop\REACT_CURSO> **`cd rick-and-morty`**
 
 ---
+Instalar librerias
+* En la terminal situada en la carpeta del proyecto escribimos el comando:
 
-En la terminal situada en la carpeta del proyecto escribimos el comando:
-
-> PS C:\Users\marin\Desktop\REACT_CURSO\rick-and-morty> npm i
+> PS C:\Users\marin\Desktop\REACT_CURSO\rick-and-morty> **`npm i`**
 
 ---
 
 Abrir el proyecto con VScode
 
-En la terminal situada en la carpeta del proyecto escribimos el comando:
+* En la terminal situada en la carpeta del proyecto escribimos el comando:
 
-> PS C:\Users\marin\Desktop\REACT_CURSO\rick-and-morty> code .
+> PS C:\Users\marin\Desktop\REACT_CURSO\rick-and-morty> **`code .`**
 
 ---
 :::
@@ -50,15 +66,15 @@ En la terminal situada en la carpeta del proyecto escribimos el comando:
 
 :::info
 
-EJECUTAR EL PROYECTO (Para mantener el servidor activo observando)
+* EJECUTAR EL PROYECTO (Para mantener el servidor activo observando)
 
-> PS C:\Users\marin\Desktop\REACT_CURSO\rick-and-morty> npm run dev
+> PS C:\Users\marin\Desktop\REACT_CURSO\rick-and-morty>**` npm run dev`**
 
 ---
 
-VER EN EL NAVEGADOR:
+* VER EN EL NAVEGADOR:
 
-Pulsar Crtl y hacer click ** http://localhost:5173/**
+Pulsar Crtl y hacer click ``http://localhost:5173/ ``
 
 ---
 
@@ -67,21 +83,22 @@ Pulsar Crtl y hacer click ** http://localhost:5173/**
 ![rick-and-morty-1](../../static/img-png/rick-and-morty-1.png "rick-and-morty-1")
 
 
-:::info
+:::info  PARAR EL SERVIDOR:
 
-PARAR EL SERVIDOR:
 
-> Crtl + C
+
+> Pulsar  Crtl + C
+:::
 
 ---
 
- 
+:::info INSTALAR bootstrap:
 
-INSTALAR bootstrap:
 
-En la terminal situada en la carpeta del proyecto escribimos el comando:
 
-> PS C:\Users\marin\Desktop\REACT_CURSO\rick-and-morty> npm i bootstrap@5.3.0-alpha1
+* En la terminal situada en la carpeta del proyecto escribimos el comando:
+
+> PS C:\Users\marin\Desktop\REACT_CURSO\rick-and-morty> **`npm i bootstrap@5.3.0-alpha1`**
 
 
 :::

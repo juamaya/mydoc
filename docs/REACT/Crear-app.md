@@ -12,6 +12,12 @@ sidebar_position: 1
  
 
 ---
+## ENLACE PARA DESCARGAR Node.js
+:::tip
+
+  [  DESCARGAR Node.js](https://nodejs.org/en)
+:::
+
 
 ABRIR LA CONSOLA DE COMANDOS CMD
 
