@@ -14,12 +14,11 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Document Versioning',
     Svg: require('@site/static/img/logo.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Support users on all versions of your project. Document versioning helps you keep documentation in sync with project releases.
       </>
     ),
   },
