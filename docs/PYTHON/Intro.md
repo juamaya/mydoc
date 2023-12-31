@@ -21,7 +21,6 @@ sidebar_position: 1
 ---
 ### CREAR UNA CARPETA DEL PROYECTO.
 
- 
 
 ---
 
