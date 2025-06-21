@@ -19,10 +19,19 @@ tags: [Markdown, docusaurus, Marin]
 
  ---
 
+ ### * Crear capturas de pantalla
+
+:::info
+>Pulsar a la vez las teclcas
+## windows + Shift + S
+:::
+
+ ---
+
  ### * Usar  Microsoft  Office 365 gratis.
 :::tip
 
-> Pulsa a la vez las teclcas 
+> Pulsar a la vez las teclcas 
 
 ![Microsoft OFFICE 365](imagenes/key.png)
 :::

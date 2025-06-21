@@ -14,79 +14,45 @@ tags: [Markdown, web  , Marin]
 
 ---
 
-- Aqui tienes un enlace para visitar mi Portafolio.
+ 
+
+> ### Aqui tienes unos enlaces para ver algunas Paginas Web.
+
+![ondas](../static/img-svg/ondas1.svg)
 
 [PORTAFOLIO](https://juamaya.github.io/portafolio)
----
 
----
-
-- Aqui tienes un enlace para visitar una pagina web. 
-
+[portafolio-juan](https://juamaya.github.io/portafolio-juan/)
+ 
 [WEB](https://juamaya.github.io/web)
----
-
----
-
-- Aqui tienes un enlace para visitar una pagina web. 
-
+ 
 [WEB-SLIDER](https://juamaya.github.io/web-slider)
----
-
----
-
-- Aqui tienes un enlace para visitar una pagina web. 
-
+ 
 [WEB-ROUTER](https://juamaya.github.io/web-router)
----
-
----
-
-- Aqui tienes un enlace para visitar una pagina web. 
-
+ 
 [WEB-GRID](https://juamaya.github.io/web-grid)
----
-
----
-
-- Aqui tienes un enlace para visitar una pagina web. 
-
+ 
 [MENU-SLIDER](https://juamaya.github.io/menu-slider)
----
+ 
 
-
-
----
-
-- Aqui tienes un enlace para visitar una pagina web que consume una API. 
+> ### Aqui tienes enlaces para visitar unas paginas web que consume una API. 
 
 [RICK and MORTY](https://juamaya.github.io/morty)
----
-
----
-
-- Aqui tienes un enlace para visitar una pagina web que consume una API. 
-
+ 
 [POKEMON](https://juamaya.github.io/pokemon)
----
+
+> ### Aqui tienes un enlace para visitar una pagina web que utiliza una libreria particles-js. 
+
+[PARTICULAS ](https://juamaya.github.io/particles)
+ 
+
+
+![ondas](../static/img-svg/ondas1.svg)
+
 
 ---
 
-- Aqui tienes un enlace para visitar una pagina web que utiliza una libreria particles-js. 
-
-[PARTICULAS](https://juamaya.github.io/particulas)
----
-
----
-
-- Aqui tienes un enlace para visitar una pagina web que utiliza una libreria particles-js. 
-
-[PARTICULAS 1](https://juamaya.github.io/particles)
----
-
----
-
-> La cachucha, Puerto Real
+>### Playa Urbana La cachucha, Puerto Real
 
 ![Puerto-real](../static/img-blog/puerto-real.jpg)
 
