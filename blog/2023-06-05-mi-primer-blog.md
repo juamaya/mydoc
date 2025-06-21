@@ -19,6 +19,21 @@ tags: [Markdown, docusaurus, Marin]
 
  ---
 
+
+ 
+ ### * Crear carpeta ModoDios
+
+ > #### Crea una carpeta con los enlaces a todas las configuraciones de tu PC
+
+:::info
+>Crea una carpeta y ponle el nombre:
+## ModoDios.{ED7BA470-8E54-465E-825C-99712O43E01C}
+>Pulsa enter
+:::
+![carpeta ModoDios](imagenes/ModoDios.png)
+
+---
+
  ### * Crear capturas de pantalla
 
 :::info
@@ -34,6 +49,7 @@ tags: [Markdown, docusaurus, Marin]
 > Pulsar a la vez las teclcas 
 
 ![Microsoft OFFICE 365](imagenes/key.png)
+
 :::
 > Se abrira esta ventana
 ---

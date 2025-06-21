@@ -8,9 +8,9 @@ sidebar_position: 1
 
 * Web de documentacion  con Docusaurus
 
-![docusaurus](../../static/img/docusaurus-social-card.jpg)
+![Docusaurus](../../static/img/docusaurus-social-card.jpg)
 
- 
+## [ Visitar Docusaurus](https://docusaurus.io/) 
 
  
 
