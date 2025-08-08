@@ -2,7 +2,9 @@
 sidebar_position: 2
 ---
 
-# Publicar App en github-pages
+# Deploy App
+
+## Publicar App en github-pages
 
 ---
 

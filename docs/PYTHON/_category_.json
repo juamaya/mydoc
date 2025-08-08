@@ -1,0 +1,8 @@
+{
+  "label": "Tutoriales - Python",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "A collection of resources and tutorials to learn the most important Python concepts."
+  }
+}

@@ -1,10 +1,11 @@
 ---
 sidebar_position: 5
 ---
+ 
 
----
+# Manejando eventos
 
-## Manejando eventos
+## Codigos en React
 
 ```jsx
 function Form() {

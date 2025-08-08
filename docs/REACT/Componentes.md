@@ -1,10 +1,11 @@
 ---
-sidebar_position: 4
+sidebar_position: 7
 ---
+ 
 
----
+# Componentes de funcion
 
-## Componentes de funcion
+## Codigos en React
 
 :::info Componentes
 

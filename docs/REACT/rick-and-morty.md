@@ -1,8 +1,14 @@
 ---
-sidebar_position: 6
+sidebar_position: 3
 ---
 
+# App 
+
+## App rick-and-morty
+
 ---
+
+![rick-and-morty-1](../../static/img-png/rick-and-morty-1.png "rick-and-morty-1")
 
 ### ENLACE PARA DESCARGAR Node.js
 :::tip
@@ -80,7 +86,7 @@ Pulsar Crtl y hacer click ``http://localhost:5173/ ``
 
 :::
 
-![rick-and-morty-1](../../static/img-png/rick-and-morty-1.png "rick-and-morty-1")
+
 
 
 :::info  PARAR EL SERVIDOR:

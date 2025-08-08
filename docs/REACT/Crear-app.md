@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
+# Crear App
 
-
-# Crear una app con Vite
+## Crear App con Vite
 ---
 
 ![vite](https://vitejs.dev/logo-with-shadow.png)
