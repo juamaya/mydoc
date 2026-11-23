@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_doc=self.webpackChunkmy_doc||[]).push([[4468],{1979:e=>{e.exports=JSON.parse('{"label":"Node","permalink":"/mydoc/docs/tags/node","allTagsPath":"/mydoc/docs/tags","count":1,"items":[{"id":"crear-app-node","title":"Crear App Node","description":"Abrir terminal en VScode","permalink":"/mydoc/docs/crear-app-node"}]}')}}]);

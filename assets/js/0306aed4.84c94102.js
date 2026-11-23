@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_doc=self.webpackChunkmy_doc||[]).push([[8971],{1304:e=>{e.exports=JSON.parse('{"label":"Vite","permalink":"/mydoc/docs/tags/vite","allTagsPath":"/mydoc/docs/tags","count":1,"items":[{"id":"crear-app-Vite-HeroUI","title":"Crear App React Vite Heroui","description":"\u2705 Instalar HeroUI","permalink":"/mydoc/docs/crear-app-Vite-HeroUI"}]}')}}]);
