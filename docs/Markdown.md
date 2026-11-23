@@ -1,10 +1,6 @@
- 
-
-
 ![Markdown][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Este es el logo de Markdown"
-
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png 'Este es el logo de Markdown'
 
 :::info  
 Here's markdown logo (hover to see the title text):
@@ -17,6 +13,7 @@ Here's markdown logo (hover to see the title text):
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Este es el logo de Markdown"
 
 ```
+
 ## SINTAXIS MARKDOWN
 
 ---
@@ -76,8 +73,6 @@ Here's markdown logo (hover to see the title text):
 
 ## BLOQUES DE CODIGOS
 
- 
-
 \```
 Creando códigos de bloque.
 Puedes añadir tantas líneas como quieras.```
@@ -97,19 +92,15 @@ print(f"Tu nombre es: {name}")
 
 \```javascript
 let name = "Felipe"
-console.log("Tu nombre es:  ", name)
+console.log("Tu nombre es: ", name)
 \```
 
 ```javascript
- let name = "Felipe"
-console.log("Tu nombre es:  ", name)
-
+let name = 'Felipe'
+console.log('Tu nombre es:  ', name)
 ```
 
- 
-
 ---
-
 
 ## ENLACES
 
@@ -128,26 +119,24 @@ console.log("Tu nombre es:  ", name)
 
 ```
 
-![Texto alternativo](../../static/ima_A320/A320.jpg "A320")
-```
-
-
-![Texto alternativo](../static/ima_A320/A320.jpg "A320")![blob](../static/img-svg/blob1.svg "blob")
-
----
-
  
+---
 
 ## VIDEOS
 
 ```html
 <div className="embed-responsive embed-responsive-16by9">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/kKHGgRUfNfc" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+  <iframe
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/kKHGgRUfNfc"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+  ></iframe>
 </div>
 ```
-
- 
-
 
 ---
 
@@ -158,7 +147,7 @@ console.log("Tu nombre es:  ", name)
 Use the power of React to create interactive blog posts.
 
 ```js
-<button onClick={() => alert("button clicked!")}>Click me!</button>
+<button onClick={() => alert('button clicked!')}>Click me!</button>
 ```
 
 <button onClick={() => alert('button clicked! Welcome.')}>Click me!</button>
@@ -177,9 +166,10 @@ _Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum
 ---
 
 ## Listas desordenadas
+
 :::info
 Para crear listas desordenadas utiliza \* asteriscos, - guiones, o + símbolo de suma.
-::: 
+:::
 
 ```
 - Elemento de lista 1
@@ -191,7 +181,6 @@ Para crear listas desordenadas utiliza \* asteriscos, - guiones, o + símbolo de
 + Elemento de lista 5
 + Elemento de lista 6
 ```
-
 
 - Elemento de lista 1
 - Elemento de lista 2
@@ -205,35 +194,31 @@ Para crear listas desordenadas utiliza \* asteriscos, - guiones, o + símbolo de
 ---
 
 ## Listas ordenadas
+
 :::info
 Para crear listas ordenadas debes utilizar la sintaxis de tipo: «número.» 1.
 :::
 
- 
 1. Elemento de lista 1
 2. Elemento de lista 2
 3. Elemento de lista 3
 4. Elemento de lista 4
-     
- 
+
 ---
- 
 
 1. Elemento de lista 1
-    * Elemento de lista 1.1
-    * Elemento de lista 1.1
+   - Elemento de lista 1.1
+   - Elemento de lista 1.1
 2. Elemento de lista 2
    - Elemento de lista 2.1
-      + Elemento    
-      + Elemento   
+     - Elemento
+     - Elemento
    - Elemento de lista 2.2
-      1. Elemento   
-      2. Elemento    
-        
+     1. Elemento
+     2. Elemento
 
 ---
 
- 
 ## MENSAJES
 
 :::success
@@ -247,6 +232,6 @@ Para crear listas ordenadas debes utilizar la sintaxis de tipo: «número.» 1.
 
 :::danger
 :::
- 
-  ![World](../static/img-svg/World.svg)   
- 
+
+![World](../static/img-svg/World.svg)  
+

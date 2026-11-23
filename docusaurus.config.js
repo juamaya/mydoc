@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Welcome My Website ',
   tagline: 'Mi Pagina Web de Documentacion.',
-  favicon: 'static/img/favicon.ico',
+  favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://juamaya.github.io',

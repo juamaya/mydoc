@@ -11,58 +11,59 @@ tags: [Markdown, docusaurus, Marin]
 ![juan](../static/img-png/juan3.png)
 ![logo](./imagenes/logo.jpg)
 
- 
- 
 ---
 
 ![alt text][logo]
 
- ---
+---
 
+### \* Crear carpeta ModoDios
 
- 
- ### * Crear carpeta ModoDios
-
- > #### Crea una carpeta con los enlaces a todas las configuraciones de tu PC
+> #### Crea una carpeta con los enlaces a todas las configuraciones de tu PC
 
 :::info
->Crea una carpeta y ponle el nombre:
+
+> Crea una carpeta y ponle el nombre:
+
 ## ModoDios.{ED7BA470-8E54-465E-825C-99712O43E01C}
->Pulsa enter
-:::
-![carpeta ModoDios](imagenes/ModoDios.png)
+
+> Pulsa enter
+> :::
+> ![carpeta ModoDios](imagenes/ModoDios.png)
 
 ---
 
- ### * Crear capturas de pantalla
+### \* Crear capturas de pantalla
 
 :::info
->Pulsar a la vez las teclcas
+
+> Pulsar a la vez las teclcas
+
 ## windows + Shift + S
+
 :::
 
- ---
+---
 
- ### * Usar  Microsoft  Office 365 gratis.
+### \* Usar Microsoft Office 365 gratis.
+
 :::tip
 
-> Pulsar a la vez las teclcas 
+> Pulsar a la vez las teclcas
 
 ![Microsoft OFFICE 365](imagenes/key.png)
 
 :::
+
 > Se abrira esta ventana
+
 ---
 
 ![Microsoft OFFICE 365](imagenes/365.png)
 
 ---
 
-
-
-
 ## Crear codigos QR con la consola de comandos o CMD.
-
 
 :::tip
 
@@ -70,22 +71,20 @@ tags: [Markdown, docusaurus, Marin]
 
 > Escribir el comando y una URL o tu nombre todo **junto** y pulsar enter.
 
-`curl qrcode.show/Antonio-Lopez ` 
+`curl qrcode.show/Antonio-Lopez `
 
 > Ejemplo:
-  ![Alt text](./imagenes/qr.png)  
- 
+> ![Alt text](./imagenes/qr.png)
+
 :::
 
 ---
- 
+
 > Imagen creada con Inteligencia Artificial
 
 ![cobra](../static/img-png/cobra.png)
 
 ---
-
-
 
 ## SINTAXIS MARKDOWN
 
@@ -96,9 +95,7 @@ Here's markdown logo (hover to see the title text):
 
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Este es el logo de Markdown"
-
-
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png 'Este es el logo de Markdown'
 
 ---
 
@@ -218,10 +215,10 @@ Para crear listas ordenadas debes utilizar la sintaxis de tipo: «número.» 1.
 
 ```
 
-![Texto alternativo](../static/ima_A320/A320.jpg "A320")
+ 
 ```
 
-![Texto alternativo](../static/ima_A320/A320.jpg "A320")![blob](../static/img-svg/blob1.svg "blob")
+ 
 
 ---
 
@@ -229,12 +226,17 @@ Para crear listas ordenadas debes utilizar la sintaxis de tipo: «número.» 1.
 
 ```html
 <div className="embed-responsive embed-responsive-16by9">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/kKHGgRUfNfc" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+  <iframe
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/kKHGgRUfNfc"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+  ></iframe>
 </div>
 ```
-
- 
-
 
 ---
 
@@ -245,7 +247,7 @@ Para crear listas ordenadas debes utilizar la sintaxis de tipo: «número.» 1.
 Use the power of React to create interactive blog posts.
 
 ```js
-<button onClick={() => alert("button clicked!")}>Click me!</button>
+<button onClick={() => alert('button clicked!')}>Click me!</button>
 ```
 
 <button onClick={() => alert('button clicked! Welcome.')}>Click me!</button>
@@ -253,14 +255,11 @@ Use the power of React to create interactive blog posts.
 :::
 
 ---
- 
- ![World](../static/img-svg/World.svg)   
- 
- 
 
- 
+![World](../static/img-svg/World.svg)
 
 ---
+
 > Aqui pongo texto de relleno
 
 _Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet_
